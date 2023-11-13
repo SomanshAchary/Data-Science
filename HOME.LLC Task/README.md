@@ -71,5 +71,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
-Special thanks to [Home.LLC](https://www.home.llc) for providing the opportunity and support for this project. Any citations or references related to the data sources and external materials used in this analysis are included in the bibliography section of this README.
+Special thanks to [Home.LLC](https://www.home.llc) for providing the opportunity and the Data sources. Any citations or references related to the data sources and external materials used in this analysis are included in the bibliography section of this README.
 
